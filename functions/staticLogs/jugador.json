@@ -1,0 +1,62 @@
+[
+    {
+        "ID_JUGADOR": 1,
+        "USUARIO": "QWE",
+        "PUNTOS": 9000,
+        "DIFICULTAD": "HARD"
+    },
+    {
+        "ID_JUGADOR": 2,
+        "USUARIO": "SDFGH",
+        "PUNTOS": 7700,
+        "DIFICULTAD": "HARD"
+    },
+    {
+        "ID_JUGADOR": 3,
+        "USUARIO": "JUANITO :V",
+        "PUNTOS": 15600,
+        "DIFICULTAD": "HARD"
+    },
+    {
+        "ID_JUGADOR": 4,
+        "USUARIO": "GERA LOCCO",
+        "PUNTOS": 5500,
+        "DIFICULTAD": "FACIL"
+    },
+    {
+        "ID_JUGADOR": 5,
+        "USUARIO": "ISABEL",
+        "PUNTOS": 9700,
+        "DIFICULTAD": "HARD"
+    },
+    {
+        "ID_JUGADOR": 6,
+        "USUARIO": "JULIO",
+        "PUNTOS": 18800,
+        "DIFICULTAD": "HARD"
+    },
+    {
+        "ID_JUGADOR": 7,
+        "USUARIO": "HECTOR",
+        "PUNTOS": 8100,
+        "DIFICULTAD": "FACIL"
+    },
+    {
+        "ID_JUGADOR": 8,
+        "USUARIO": "CHOLO",
+        "PUNTOS": 7400,
+        "DIFICULTAD": "FACIL"
+    },
+    {
+        "ID_JUGADOR": 9,
+        "USUARIO": "DARIANA",
+        "PUNTOS": 3800,
+        "DIFICULTAD": "FACIL"
+    },
+    {
+        "ID_JUGADOR": 10,
+        "USUARIO": "JAVI",
+        "PUNTOS": 7300,
+        "DIFICULTAD": "FACIL"
+    }
+]

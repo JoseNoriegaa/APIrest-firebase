@@ -1,0 +1,296 @@
+[
+    {
+        "ID_PALABRAS": 1,
+        "NO_CARACTERES": 3,
+        "PALABRA": "LEAGUE OF LEGENDS",
+        "CATEGORIA": "VIDEOJUEGOS",
+        "PISTA": "Videojuego de tipo MOBA , uno de sus personajes populares es TEEMO.\n"
+    },
+    {
+        "ID_PALABRAS": 2,
+        "NO_CARACTERES": 6,
+        "PALABRA": "FUTBOL",
+        "CATEGORIA": "DEPORTES",
+        "PISTA": "Deporte de 2 equipos de 11 jugadores que consite en meter una pelota en una porteria"
+    },
+    {
+        "ID_PALABRAS": 3,
+        "NO_CARACTERES": 11,
+        "PALABRA": "HARRY POTTER",
+        "CATEGORIA": "PELICULAS",
+        "PISTA": "Saga de peliculas de ciencia ficción , en la cual aparece el malvado mago Lord Voldemort."
+    },
+    {
+        "ID_PALABRAS": 4,
+        "NO_CARACTERES": 10,
+        "PALABRA": "BASKETBALL",
+        "CATEGORIA": "DEPORTES",
+        "PISTA": "Deporte en el que el juego consiste en anotar puntos introduciendo una pelota en una canasta.\n"
+    },
+    {
+        "ID_PALABRAS": 5,
+        "NO_CARACTERES": 8,
+        "PALABRA": "BASEBALL",
+        "CATEGORIA": "DEPORTES",
+        "PISTA": "Deporte al que pertenecen los medias rojas de boston\n"
+    },
+    {
+        "ID_PALABRAS": 6,
+        "NO_CARACTERES": 3,
+        "PALABRA": "BOX",
+        "CATEGORIA": "DEPORTES",
+        "PISTA": "Deporte al que pertenece Julio César Chávez y Floyd Mayweather\n"
+    },
+    {
+        "ID_PALABRAS": 7,
+        "NO_CARACTERES": 9,
+        "PALABRA": "ATLETISMO",
+        "CATEGORIA": "DEPORTES",
+        "PISTA": "Conjunto de prácticas deportivas que comprende las pruebas de velocidad, saltos y lanzamientos.\n"
+    },
+    {
+        "ID_PALABRAS": 8,
+        "NO_CARACTERES": 5,
+        "PALABRA": "SKATE",
+        "CATEGORIA": "DEPORTES",
+        "PISTA": "Deporte en el cual se usa una patineta con el fin de ejecutar maniobras con ella.\n"
+    },
+    {
+        "ID_PALABRAS": 9,
+        "NO_CARACTERES": 3,
+        "PALABRA": "BMX",
+        "CATEGORIA": "DEPORTES",
+        "PISTA": "Deporte en el cual se utiliza una bicicleta con el fin de ejecutar maniobras con ella.\n"
+    },
+    {
+        "ID_PALABRAS": 10,
+        "NO_CARACTERES": 4,
+        "PALABRA": "GOLF",
+        "CATEGORIA": "DEPORTES",
+        "PISTA": "Es un deporte cuyo objetivo es introducir una bola en los hoyos que están distribuidos en un campo.\n"
+    },
+    {
+        "ID_PALABRAS": 11,
+        "NO_CARACTERES": 8,
+        "PALABRA": "VOLEIBOL",
+        "CATEGORIA": "DEPORTES",
+        "PISTA": "Deporte de pelota,de 6 jugadores cada uno, se enfrentan sobre un área de juego separada por una red.\n"
+    },
+    {
+        "ID_PALABRAS": 12,
+        "NO_CARACTERES": 4,
+        "PALABRA": "SURF",
+        "CATEGORIA": "DEPORTES",
+        "PISTA": "Deporte en el cual se utiliza una tabla para deslizarse en las olas del mar.\n"
+    },
+    {
+        "ID_PALABRAS": 13,
+        "NO_CARACTERES": 10,
+        "PALABRA": "CALL OF DUTY",
+        "CATEGORIA": "VIDEOJUEGOS",
+        "PISTA": "Saga de videojuegos , una de sus entregas lleva por nombre Black Ops.\n"
+    },
+    {
+        "ID_PALABRAS": 14,
+        "NO_CARACTERES": 14,
+        "PALABRA": "SUPER MARIO BROS",
+        "CATEGORIA": "VIDEOJUEGOS",
+        "PISTA": "Videojuego en el cual 2 hermanos deben rescatar a la Princesa Peach del Reino Champiñón.\n"
+    },
+    {
+        "ID_PALABRAS": 15,
+        "NO_CARACTERES": 9,
+        "PALABRA": "MINECRAFT",
+        "CATEGORIA": "VIDEOJUEGOS",
+        "PISTA": "Videojuego en el que es posible crear o personalizar tu propio mundo interpretando a un minero.\n"
+    },
+    {
+        "ID_PALABRAS": 16,
+        "NO_CARACTERES": 4,
+        "PALABRA": "FIFA",
+        "CATEGORIA": "VIDEOJUEGOS",
+        "PISTA": "Nombre de la saga de videojuegos de futbol , distrubuidos por Electronic Arts y EA sports.\n"
+    },
+    {
+        "ID_PALABRAS": 17,
+        "NO_CARACTERES": 17,
+        "PALABRA": "THE KING OF FIGHTERS",
+        "CATEGORIA": "VIDEOJUEGOS",
+        "PISTA": "Nombre de la saga de videojuegos de pelea , uno de sus personajes populares es Rugal Bernstein.\n"
+    },
+    {
+        "ID_PALABRAS": 18,
+        "NO_CARACTERES": 9,
+        "PALABRA": "MARIO KART",
+        "CATEGORIA": "VIDEOJUEGOS",
+        "PISTA": "Es una serie de videojuegos de carreras de Nintendo con los personajes de la saga de Mario.\n"
+    },
+    {
+        "ID_PALABRAS": 19,
+        "NO_CARACTERES": 7,
+        "PALABRA": "PAC-MAN",
+        "CATEGORIA": "VIDEOJUEGOS",
+        "PISTA": "Juego en el que interpretas un personaje amarillo basado en la forma de una pizza sin un trozo.\n( :V )"
+    },
+    {
+        "ID_PALABRAS": 20,
+        "NO_CARACTERES": 3,
+        "PALABRA": "GTA",
+        "CATEGORIA": "VIDEOJUEGOS",
+        "PISTA": "Nombre de saga de videojuegos , una de sus entregas mas populares es San Andreas.\n"
+    },
+    {
+        "ID_PALABRAS": 21,
+        "NO_CARACTERES": 6,
+        "PALABRA": "TETRIS",
+        "CATEGORIA": "VIDEOJUEGOS",
+        "PISTA": "Videojuego que consiste en acomodar una serie de figuras geometrias mientras decienden.\n"
+    },
+    {
+        "ID_PALABRAS": 22,
+        "NO_CARACTERES": 14,
+        "PALABRA": "RAPIDO Y FURIOSO",
+        "CATEGORIA": "PELICULAS",
+        "PISTA": "Saga de peliculas de carreras callejeras , interpretada por Paul Walker y Vin Diesel.\n"
+    },
+    {
+        "ID_PALABRAS": 23,
+        "NO_CARACTERES": 12,
+        "PALABRA": "TRANSFORMERS",
+        "CATEGORIA": "PELICULAS",
+        "PISTA": "Saga de peliculas de ciencia ficción , en la cual aparecen autos que se transforman en robots.\n"
+    },
+    {
+        "ID_PALABRAS": 24,
+        "NO_CARACTERES": 4,
+        "PALABRA": "BUSCANDO A NEMO",
+        "CATEGORIA": "PELICULAS",
+        "PISTA": "Pelicula de la compañia Disney , en la cual un pez sale en la busqueda de su pequeño hijo.\n"
+    },
+    {
+        "ID_PALABRAS": 25,
+        "NO_CARACTERES": 3,
+        "PALABRA": "SAW",
+        "CATEGORIA": "PELICULAS",
+        "PISTA": "Serie de peliculas de terror ,en la cual su personaje es un muñeco de cara blanca sobre un triciclo.\n"
+    },
+    {
+        "ID_PALABRAS": 26,
+        "NO_CARACTERES": 4,
+        "PALABRA": "GOKU",
+        "CATEGORIA": "ANIME",
+        "PISTA": "Dice que su abuelito es una esfera de 4 estrellas"
+    },
+    {
+        "ID_PALABRAS": 27,
+        "NO_CARACTERES": 6,
+        "PALABRA": "NARUTO",
+        "CATEGORIA": "ANIME",
+        "PISTA": "El siempre dice sasukeeeeee!!!!"
+    },
+    {
+        "ID_PALABRAS": 28,
+        "NO_CARACTERES": 11,
+        "PALABRA": "TAIGA KAGAMI",
+        "CATEGORIA": "ANIME",
+        "PISTA": "De la serie kuroko no basuke el es jugador estrella  de seirin, y tiene un salto impresionante."
+    },
+    {
+        "ID_PALABRAS": 29,
+        "NO_CARACTERES": 6,
+        "PALABRA": "KANEKI",
+        "CATEGORIA": "ANIME",
+        "PISTA": "en su primera cita con una chica de pelo morado, resulta mordido y casi muerto."
+    },
+    {
+        "ID_PALABRAS": 30,
+        "NO_CARACTERES": 14,
+        "PALABRA": "XXX-REACTIVADO",
+        "CATEGORIA": "PELICULAS",
+        "PISTA": "Es la ultima pelicula de la saga de xxx."
+    },
+    {
+        "ID_PALABRAS": 31,
+        "NO_CARACTERES": 4,
+        "PALABRA": "IPPO",
+        "CATEGORIA": "ANIME",
+        "PISTA": "Personaje de anime donde en el box hace el demsey roll y es campeon de japon."
+    },
+    {
+        "ID_PALABRAS": 32,
+        "NO_CARACTERES": 5,
+        "PALABRA": "TEEMO",
+        "CATEGORIA": "VIDEOJUEGOS",
+        "PISTA": "Personaje de lol que tira hongos y es el mismo demonio."
+    },
+    {
+        "ID_PALABRAS": 33,
+        "NO_CARACTERES": 6,
+        "PALABRA": "KRILIN",
+        "CATEGORIA": "ANIME",
+        "PISTA": "ES EL PERSONAJE QUE MAS MUERE EN LA SAGA DE DRAGONBALL"
+    },
+    {
+        "ID_PALABRAS": 34,
+        "NO_CARACTERES": 6,
+        "PALABRA": "PICORO",
+        "CATEGORIA": "ANIME",
+        "PISTA": "ES EL PERSONAJE VERDE QUE SALE EN LA SAGA DE DRAGONBALL "
+    },
+    {
+        "ID_PALABRAS": 35,
+        "NO_CARACTERES": 8,
+        "PALABRA": "ZENO SAMA",
+        "CATEGORIA": "ANIME",
+        "PISTA": "ES EL SER MAS PODEROSO DEL UNIVERSO DE LA SAGA DE DRAGON BALL"
+    },
+    {
+        "ID_PALABRAS": 36,
+        "NO_CARACTERES": 5,
+        "PALABRA": "BILLS",
+        "CATEGORIA": "ANIME",
+        "PISTA": "ES EL DIOS DESTRUCTOR DE LA SAGA DE DRAGON BALL\n"
+    },
+    {
+        "ID_PALABRAS": 37,
+        "NO_CARACTERES": 7,
+        "PALABRA": "CRICKET",
+        "CATEGORIA": "DEPORTES",
+        "PISTA": "DEPORTE EN EL CUAL ES MUY PARECIDO AL BASEBALL"
+    },
+    {
+        "ID_PALABRAS": 38,
+        "NO_CARACTERES": 7,
+        "PALABRA": "SCOOTER",
+        "CATEGORIA": "DEPORTES",
+        "PISTA": "DEPORTE QUE CONSISTE EN HACER MANIOBRAS CON UN MONOPATIN"
+    },
+    {
+        "ID_PALABRAS": 39,
+        "NO_CARACTERES": 15,
+        "PALABRA": "GHOST IN THE SHELL",
+        "CATEGORIA": "ANIME",
+        "PISTA": "Serie de anime basada en pelicula de 1995 cuyo genero cyber punk estaba muy adelantado para su epoca, actualmente tiene una pelicula."
+    },
+    {
+        "ID_PALABRAS": 40,
+        "NO_CARACTERES": 5,
+        "PALABRA": "PIZZA",
+        "CATEGORIA": "COMIDA",
+        "PISTA": "su caja es cuadrada y es redonda, originaria de italia"
+    },
+    {
+        "ID_PALABRAS": 41,
+        "NO_CARACTERES": 9,
+        "PALABRA": "ESPAGUETI",
+        "CATEGORIA": "COMIDA",
+        "PISTA": "Pasta con salsa de tomate y especias"
+    },
+    {
+        "ID_PALABRAS": 42,
+        "NO_CARACTERES": 4,
+        "PALABRA": "POLO",
+        "CATEGORIA": "DEPORTES",
+        "PISTA": "Deporte paresido al golf "
+    }
+]
